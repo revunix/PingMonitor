@@ -32,7 +32,7 @@ apk add bc curl mtr
 ### Script herunterladen
 
 ```bash
-curl -O https://raw.githubusercontent.com/[dein-username]/ping-monitor/main/ping-monitor.sh
+curl -O https://raw.githubusercontent.com/revunix/ping-monitor/main/ping-monitor.sh
 chmod +x ping-monitor.sh
 ```
 
